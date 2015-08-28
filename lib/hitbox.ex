@@ -1,0 +1,2 @@
+defmodule Hitbox do
+end
